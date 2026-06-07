@@ -1,5 +1,7 @@
 body{
+    background-color: black;
     background-image: url(cybertron\ 2.jpg);
     background-size: 2300px;
+    background-repeat: no-repeat;
     font-family: monospace;
 }
