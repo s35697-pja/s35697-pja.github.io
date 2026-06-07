@@ -1,0 +1,4 @@
+.image-container:hover{
+    transition: 1s ease;
+    transform: scale(1.2);
+}
